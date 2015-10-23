@@ -9,8 +9,8 @@
     "description": "No more unorganized chat rules, use this mod to have a successful annihirace without people breaking rules!",
     "display_name": "Annihilaser Race Mode",
     "enabled": true,
-    "forum": "",
-    "icon": "",
+    "forum": "https://forums.uberent.com/threads/rel-annihirace-mod-simple-unit-selector.70796/",
+    "icon": "http://i.imgur.com/onpbNVU.png",
     "scenes": {
         "new_game": ["coui://ui/mods/annihirace/lobby.js"]
     },
