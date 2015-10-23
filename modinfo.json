@@ -1,0 +1,20 @@
+{
+    "author": "KillerKiwiJuice",
+    "build": "Current",
+    "category": [
+        "server-mod"
+    ],
+    "context": "server",
+    "date": "2015/10/22",
+    "description": "No more unorganized chat rules, use this mod to have a successful annihirace without people breaking rules!",
+    "display_name": "Annihilaser Race Mode",
+    "enabled": true,
+    "forum": "",
+    "icon": "",
+    "scenes": {
+        "new_game": ["coui://ui/mods/annihirace/lobby.js"]
+    },
+    "identifier": "com.pa.kiwi.annihirace",
+    "signature": "not yet implemented",
+    "version": "1"
+}
